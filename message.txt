@@ -1,0 +1,27 @@
+I will fix the build issue
+
+Assalam o Alaikum,
+
+I’m Muhammad Osama Rizwan, having top rated badge on Upwork and level one seller on Fiverr, have been working as a full-stack developer (ReactJS, NextJS, TypeScript, ReduxJS, NodeJS, ExpressJS, MongoDB, MySQL, PostgreSQL, Socket, AWS Lambda, AWS S3 Bucket etc.) for 3+ years, Software Engineer Graduate from UBIT, University Of Karachi, currently living in Karachi, Pakistan.
+
+Check this out:
+Portfolio: https://mor-portfolio.firebaseapp.com/
+LinkedIn: https://www.linkedin.com/in/iammor11/
+
+1) I have created a real-time socket based web app "Skorboard" (https://fantronics.com/) (MLB, NHL, NFL, NCAAF, CBK and NBA league matches for a US client) in MERN Stack.
+2) I have created a website for "The PSL Info" (https://www.thepslinfo.com/) (The PSL Info is a cricket website only for the matches, news, fixtures, results, photos, videos etc. of the Pakistan Super League) in Next JS as a frontend, Node JS as a backend, socket.io for real-time matches update and MongoDB for database.
+
+Why choose me?
+
+Responsive design
+Readable code
+Reusable components
+Best app performance
+Clean code
+Delivery within the time period
+100% Satisfaction
+
+I am available to start immediately. I am also available via email/phone to discuss this job further. Let me know if you wish to proceed further.
+
+Best Regards,
+Muhammad Osama Rizwan 
