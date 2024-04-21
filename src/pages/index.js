@@ -19,7 +19,7 @@ export default function Home() {
   }, [selectedCountry, searchTerm]);
 
   return (
-    < div style={{ padding: 0, margin: 0 }}>
+    <div style={{ padding: 0, margin: 0 }}>
       <Head>
         <title>Menu Macros</title>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet" />
@@ -65,7 +65,7 @@ export default function Home() {
             {filteredRestaurants.map((restaurant, index) => (
               <Link 
                 key={index} 
-                href={`/${selectedCountry}/${encodeURIComponent(restaurant.name.replace(/\s+/g, '-').toLowerCase())}`}
+                href={`/${selectedCountry}/${encodeURIComponent(restaurant.name.replace(/\s+/g, '-').toLowerCase())}/high-protein`}
                 passHref
                 // remove the underline
                 style={{ textDecoration: 'none' }}
